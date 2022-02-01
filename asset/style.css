@@ -125,6 +125,11 @@ h4 {
 	text-align: right;
 }
 
+.text-left {
+	text-align: left;
+}
+
+
 /* -------------------------------------------------Audio-------------------------------------------------- */
 #button{
     position: absolute;
